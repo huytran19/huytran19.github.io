@@ -21,7 +21,7 @@
     "background_color": "#000000",
     "id": "solitaire-tripeaks-journey",
     "lang": "en",
-    "orientation": "portrait-primary",
+    "orientation": "landscape",
     "categories": ["games"],
     "prefer_related_applications": false,
     "dir": "auto",
